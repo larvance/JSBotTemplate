@@ -11,8 +11,8 @@
     "url": "git+https://github.com/larvance/JSBotTemplate.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "larvance",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/larvance/JSBotTemplate/issues"
   },
